@@ -1,1 +1,1 @@
-greeting "Hello World".rb
+greeting = "Hello World"
